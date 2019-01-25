@@ -1,3 +1,5 @@
+**Note** [Google+ API is shutting down on March 7th, 2019](https://developers.google.com/+/api-shutdown).
+
 # Verifying Google+ Tokens in C# 
 
 This sample demonstrates how to verify that the ID tokens and access tokens that you receive on your server are valid. This process is important to perform when your app must send tokens to your server but  is unable to use the one-time-code flow for securely getting tokens for your server.
